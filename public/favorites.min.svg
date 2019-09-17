@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol viewBox="0 0 48 48" id="icon-green-arrow">
+      <path fill="#8bc34a" d="M44 7L4 23l40 16-7-16 7-16zm-8 16H17l18-7 1 6v1z"/>
+      <path fill="#1b5e20" d="M40.212 10.669l-5.044 11.529-.351.802.351.802 5.044 11.529L9.385 23l30.827-12.331M44 7L4 23l40 16-7-16 7-16z"/>
+      <path fill="#1b5e20" d="M36 22l-1-6-18 7 17 7-2-5-8-2h12v-1zm-8.339-1l5.771-2.244.374 2.244h-6.145z"/>
+    </symbol>
+  </defs>
+</svg>
