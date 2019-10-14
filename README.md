@@ -1,3 +1,8 @@
+A react app that helps to search for all your favorites movies and connects you to another interface to view the rating.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
